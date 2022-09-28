@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Computer Architecture
+- 🔭 I’m currently working on Computer Architecture Pipeline
 - 🌱 I’m currently learning Full Stack development from The Odin Project
 - 👯 I’m looking to collaborate on web apps
 - 💬 Ask me about UI design , Javascript and web frameworks

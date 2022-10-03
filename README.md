@@ -1,7 +1,5 @@
-### Hi there 👋
-#### My holopin
 [![@tjsm's Holopin board](https://holopin.io/api/user/board?user=tjsm)](https://holopin.io/@tjsm)
-
+### Hi there 👋
 - 🌱 I’m currently learning Full Stack development from The Odin Project
 - 👯 I’m looking to collaborate on web apps
 - 💬 Ask me about UI design , Javascript and web frameworks

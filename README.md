@@ -5,7 +5,7 @@
 - 💬 Ask me about UI design , Javascript and web frameworks
 - 📫 How to reach me: mathincomsos@gmail.com
 - 😄 Pronouns: He/His
-- PS : My hobby is learning chips designing
+- PS : My hobby is to learn and design chips
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>

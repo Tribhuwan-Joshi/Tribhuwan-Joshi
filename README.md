@@ -6,6 +6,7 @@
 - 💬 Ask me about UI design , typescript , javascript and web frameworks
 - 📫 How to reach me: mathincomsos@gmail.com
 - 😄 Pronouns: He/His
+- Checkout my [portfolio](https://tjsm.netlify.app/)
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>

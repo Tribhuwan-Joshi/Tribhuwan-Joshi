@@ -1,4 +1,4 @@
-<img src="https://holopin.io/api/user/board?user=tjsm" alt="@tjsm's Holopin board" width="60%" height="auto"/>
+<img src="https://holopin.io/api/user/board?user=tjsm" alt="@tjsm's Holopin board" width="70%" height="auto"/>
 
 ### Hi there 👋
 - 🌱 I’m currently learning to create robust web apps

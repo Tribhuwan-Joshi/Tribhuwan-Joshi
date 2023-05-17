@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning to create robust web apps
 - 👯 I’m looking to collaborate on web apps
-- 💬 Ask me about UI design , typescript , javascript and web frameworks
+- 💬 Ask me about system design , typescript , javascript and web frameworks
 - 📫 How to reach me: mathincomsos@gmail.com
 - 😄 Pronouns: He/His
 - Checkout my [portfolio](https://tjsm.netlify.app/)

@@ -3,9 +3,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning to create robust web apps
 - 👯 I’m looking to collaborate on web apps
-- 💬 Ask me about system design , typescript , javascript and web frameworks
+- 💬 Ask me about system design, typescript, javascript and web frameworks
 - 📫 How to reach me: mathincomsos@gmail.com
 - 😄 Pronouns: He/His
+- A Hobbyist computer scientist interested in algorithms and discrete mathematics
 - Checkout my [portfolio](https://tjsm.netlify.app/)
 ### :hammer_and_wrench: Languages and Tools :
 

@@ -13,7 +13,7 @@
 
 <h3>🌟 Holopins </h3>
 <img src="https://holopin.io/api/user/board?user=tjsm" alt="@tjsm's Holopin board" width="70%" height="auto"/> 
-<details open> 
+<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -118,7 +118,7 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-<details open> 
+<details > 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>

@@ -10,6 +10,7 @@
 - OOPS 
 - Design Patterns
 - Checkout my [portfolio](https://tjsm.netlify.app/)
+- Besides Development I am into research domain of computer science .
 
 <h3>🌟 Holopins </h3>
 <img src="https://holopin.io/api/user/board?user=tjsm" alt="@tjsm's Holopin board" width="70%" height="auto"/> 

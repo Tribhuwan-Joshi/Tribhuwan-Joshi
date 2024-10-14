@@ -3,9 +3,11 @@
 
 
 ## 💬 Ask me about
-- Backend web development (Python, Node.js)
+- Backend web development (Node.js)
 - Frontend web development (React.js, Astro, Next.js)
-- Database (Firestore, Atlas, Sql)
+- API design - REST & GraphQl
+- Testing - e2e(playwright), api(supertest), frontend(vitest)
+- Database (Sql & NoSql)
 - Web a11y
 - OOPS 
 - Design Patterns

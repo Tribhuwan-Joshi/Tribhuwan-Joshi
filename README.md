@@ -3,15 +3,14 @@
 
 
 ## 💬 Ask me about
-- Backend web development (Node.js)
-- Frontend web development (React.js, Astro, Next.js)
+- Backend framework (Express/Node.js)
 - API design - REST & GraphQl
 - Testing - e2e(playwright), api(supertest), frontend(vitest)
-- Database (Sql & NoSql)
+- Database (Sql - Postgresql & NoSql - mongodb)
 - Web a11y
 - OOPS 
 - Design Patterns
-- Checkout my [portfolio](https://tjsm.netlify.app/)
+- Checkout my [portfolio](https://tjsm.netlify.app/) [outdated]
 - Besides Development I am into research domain (algorithms || the nature of computation) of computer science .
 
 <h3>🌟 Holopins </h3>

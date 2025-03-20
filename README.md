@@ -5,7 +5,7 @@
 ## 💬 Ask me about
 - Backend framework (Express/Node.js)
 - API design - REST & GraphQl
-- Testing - e2e(playwright), api(supertest), frontend(vitest)
+- Testing - e2e(playwright), api(supertest)
 - Database (Sql - Postgresql & NoSql - mongodb)
 - Web a11y
 - OOPS 

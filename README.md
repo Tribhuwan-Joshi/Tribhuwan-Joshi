@@ -10,7 +10,7 @@
 - Web a11y
 - OOPS 
 - Design Patterns
-- Checkout my [portfolio](https://tjsm.netlify.app/) [outdated]
+- Checkout my [resume](https://tribhuwan-joshi-resume.tiiny.site)
 - Besides Development I am into research domain (algorithms || the nature of computation) of computer science .
 
 <h3>🌟 Holopins </h3>
